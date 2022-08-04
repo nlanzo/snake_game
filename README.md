@@ -1,2 +1,3 @@
-# snake_game
-snake game
+# Snake Game 2022 Extreme
+
+Play snake!  Have fun!
